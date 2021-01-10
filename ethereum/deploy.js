@@ -21,3 +21,4 @@ const deploy = async () => {
 };
 deploy();
 
+// deployed to 0x6b5be528A138847C6cF9aca0dD1E325465fc7f56
