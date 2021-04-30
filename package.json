@@ -1,10 +1,11 @@
 {
-  "name": "inbox",
+  "name": "campaign",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "dev": "next dev"
   },
   "author": "",
   "license": "ISC",
@@ -14,8 +15,8 @@
     "ganache-cli": "^6.12.1",
     "mocha": "^8.2.1",
     "next": "^4.1.4",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
     "solc": "^0.4.26",
     "web3": "^1.0.0-beta.26"
   }
