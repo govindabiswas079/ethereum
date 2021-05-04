@@ -1,0 +1,13 @@
+Author: Jiazheng (Kevin) Li
+Following Udemy course by Stephen Grider
+
+Dependencies:
+
+npm install next react react-dom
+
+npm install web3@1.3.5
+
+npm install --save semantic-ui-react
+
+To run:
+npm run test
