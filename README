@@ -9,5 +9,7 @@ npm install web3@1.3.5
 
 npm install --save semantic-ui-react
 
+npm install --save semantic-ui-css 
+
 To run:
 npm run test
