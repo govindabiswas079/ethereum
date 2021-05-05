@@ -5,7 +5,7 @@ const Header = (props) => {
 
     return (
 
-        <Menu>
+        <Menu style={{marginTop:'10px'}}>
             <Menu.Item>CampaignCoin</Menu.Item>
 
             <Menu.Menu position="right">
