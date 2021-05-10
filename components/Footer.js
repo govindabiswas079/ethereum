@@ -13,7 +13,7 @@ const Footer = (props) => {
         <Segment attached textAlign='center'>
             This website is a decentralized crowdfunding campaign platform using the Ethereum Blockchain. <br/>
             To be able to interact with the campaigns, users are required to use Metamask Ethereum wallet extension. <br/>
-            The contract is built with Solidity, while this website is built with React, Semantic UI, and NextJS.
+            The contract is built with Solidity, while this website is built with React, Semantic UI, and Next.js
         </Segment>
         <Segment attached textAlign='center'>
             Check out my portfolio! <br/> 
