@@ -2,6 +2,7 @@ import React from 'react';
 import {Container} from 'semantic-ui-react'
 import Head from 'next/head'
 import Header from './Header'
+import Footer from './Footer'
 
 const Layout = (props) => {
 
@@ -13,7 +14,7 @@ const Layout = (props) => {
             
             <Header/>
             {props.children}
-            <h1>I am footer</h1>
+            <Footer/>
         </Container>
     );
 
