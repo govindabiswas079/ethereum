@@ -2,10 +2,12 @@
   "name": "campaign",
   "version": "1.0.0",
   "description": "",
+  "homepage":"https://ljz3.github.io/Campaign-ETH-Smart-Contract/",
   "main": "index.js",
   "scripts": {
     "test": "mocha",
-    "dev": "node server.js"
+    "dev": "node server.js",
+    "deploy": "node server.js"
   },
   "author": "",
   "license": "ISC",
