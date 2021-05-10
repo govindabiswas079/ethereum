@@ -15,4 +15,8 @@ npm install next-routes --legacy-peer-deps
 
 
 To run:
-npm run test
+npm run dev
+
+Notes:
+- Website will be at localhost:3000
+- User must have Metamask Extension to be able to interact with the smart contract
