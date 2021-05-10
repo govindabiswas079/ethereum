@@ -7,7 +7,7 @@
   "scripts": {
     "test": "mocha",
     "dev": "node server.js",
-    "deploy": "node server.js"
+    "deploy": "gh-pages -d build"
   },
   "author": "",
   "license": "ISC",
